@@ -1,6 +1,6 @@
 [![Dependency Status](https://gemnasium.com/trustedanalytics/cf-boshworkspace.svg)](https://gemnasium.com/trustedanalytics/cf-boshworkspace)
 
-cf-boshworkspace
+cf-boshworkspace 
 ================
 
 This project's purpose is to help you easily deploy CloudFoundry in various
